@@ -14,7 +14,7 @@ The first artifact is an Inventory Management Android Mobile Application origina
 
 - [Original Files](https://github.com/lbnv87/lbnv87.github.io/tree/main/files/artifact-one/original/)
 - [Enhanced Files](https://github.com/lbnv87/lbnv87.github.io/tree/main/files/artifact-one/enhanced/)
-- [Narrative](files/artifact-one/narrative/)
+- [Narrative](https://github.com/lbnv87/lbnv87.github.io/tree/main/files/artifact-one/narrative/)
 
 ## Artifact Two: Algorithms and Data Structures
 
@@ -23,4 +23,4 @@ The second artifact is an Animal Shelter Dashboard originally created in CS 340:
 - [Original Files](https://github.com/lbnv87/lbnv87.github.io/tree/main/files/artifact-two/original/)
 - [Enhanced Files](https://github.com/lbnv87/lbnv87.github.io/tree/main/files/artifact-two/enhanced/)
 - [Testing Evidence](https://github.com/lbnv87/lbnv87.github.io/tree/main/files/artifact-two/testing/)
-- [Narrative](files/artifact-two/narrative/)
+- [Narrative](https://github.com/lbnv87/lbnv87.github.io/tree/main/files/artifact-two/narrative/)
